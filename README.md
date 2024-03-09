@@ -1,7 +1,7 @@
 # 2024-YZ-VOST-LiRH
-181236003-YapayZeka, 181236006-Veri Odaklı Sistem Tasarımı, 181236007-LateX ile Rapor Hazırlama
+Repoda dahil edilen Ders Kodları: 181236003-YapayZeka, 181236006-Veri Odaklı Sistem Tasarımı, 181236007-LateX ile Rapor Hazırlama
 
-Sisteme rapor ve kodlarınızı yüklerken 
+## Sisteme rapor ve kodlarınızı yüklerken 
 1- Eğer 3 dersi de alıyorsanız sadece öğrenci numaranızla klasör oluşturarak dosyalarınızı yükleyiniz.
 
 Örnek: 
@@ -14,5 +14,5 @@ OgrenciNo/TasarimRaporu.tex, TasarimRaporu.pdf
 
 OgrenciNo_181236007/TasarimRaporu.tex
 
-
-
+## Github'da web arayüzü kullanaarak klasör nasıl oluşturulur
+https://webapps.stackexchange.com/questions/36411/create-a-folder-in-github-via-the-web-interface
