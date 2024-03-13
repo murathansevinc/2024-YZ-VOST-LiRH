@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{pgfgantt}
+
+\begin{document}
+
+\begin{ganttchart}[
+    hgrid,
+    vgrid,
+    x unit=1.1cm,
+    y unit title=2cm,
+    y unit chart=1.5cm,
+    title height=1,
+    bar/.style={draw,fill=gray!50},
+    bar incomplete/.append style={fill=yellow},
+    bar height=0.7,
+    progress label text={},
+    group right shift=0,
+    group top shift=0.7,
+    group height=0.3,
+    group peaks width=0.2,
+    inline]{1}{10}
+  \gantttitle{Hafta}{10} \\
+  \gantttitlelist{1,...,10}{1} \\
+  \ganttgroup{Hazırlık ve Araştırma}{1}{2} \\
+  \ganttgroup{Ortam ve Veri Toplama}{3}{4} \\
+  \ganttgroup{Teşvik Öğrenme Algoritmasının Uygulanması}{5}{6} \\
+  \ganttgroup{Gelişmiş Simülasyon ve Ayarlamalar}{7}{8} \\
+  \ganttgroup{Son Dokunuşlar ve Değerlendirme}{9}{10} \\
+\end{ganttchart}
+
+\end{document}
