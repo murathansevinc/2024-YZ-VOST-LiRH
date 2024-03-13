@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{pgfgantt}
+\usepackage{lscape}
+
+\begin{document}
+
+
+\begin{ganttchart}[
+    hgrid,
+    vgrid={*1{blue, dashed}},
+    x unit=0.6cm,
+    y unit title=0.6cm,
+    y unit chart=0.6cm,
+    title height=1,
+    bar/.append style={fill=blue!50},
+    bar height=0.4,
+    bar label font=\normalsize\color{black},
+    group label font=\normalsize\color{black},
+    milestone label font=\normalsize\color{black},
+    milestone height=0.6,
+    milestone/.append style={fill=red},
+    progress label text={},
+    bar incomplete/.append style={fill=yellow!50},
+    group top shift=0.7,
+    group height=0.3,
+    group peaks width=0.2,
+    ]{1}{10}
+    \gantttitle{Hafta}{10} \\
+    \gantttitlelist{1,...,10}{1} \\
+    \ganttbar{Proje Planlama ve Hazırlık}{1}{2} \\
+    \ganttbar{Model Seçimi ve Hazırlık}{3}{4} \\
+    \ganttbar{Model Eğitimi ve Ayarlaması}{5}{7} \\
+    \ganttbar{Model Doğrulama ve Ayarlaması}{8}{9} \\
+    \ganttmilestone{Sonuçların Analizi ve Sunumu}{10}
+\end{ganttchart}
+
+
+\end{document}
