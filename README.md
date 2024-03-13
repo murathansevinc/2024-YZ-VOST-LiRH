@@ -14,5 +14,5 @@ OgrenciNo/TasarimRaporu.tex, TasarimRaporu.pdf
 
 OgrenciNo_181236007/TasarimRaporu.tex
 
-## Github'da web arayüzü kullanaarak klasör nasıl oluşturulur
+## Github'da web arayüzü kullanarak klasör nasıl oluşturulur
 https://webapps.stackexchange.com/questions/36411/create-a-folder-in-github-via-the-web-interface
