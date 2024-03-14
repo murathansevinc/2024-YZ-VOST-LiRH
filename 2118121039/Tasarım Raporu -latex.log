@@ -1,0 +1,240 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.12)  14 MAR 2024 20:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Tasarım Raporu -latex.tex"
+(Tasarım Raporu -latex.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape-no
+metadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fmtcount.st
+y
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcnumparser.s
+ty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime-defa
+ults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box51
+) (Tasarım Raporu -latex.aux)
+\openout1 = `"Tasarım Raporu -latex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen145
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fc-english.de
+f
+File: fc-english.def 2016/01/12
+)
+<ksbu.png, id=1, 170.6375pt x 171.64125pt>
+File: ksbu.png Graphic file (type png)
+<use ksbu.png>
+Package pdftex.def Info: ksbu.png  used on input line 21.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+ [1
+
+{C:/Users/90546/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ksbu.png>]
+ [2] [3] [4] [5] (Tasarım Raporu -latex.bbl [6] [7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 73.
+) [8]
+<GantChart.png, id=32, 1472.50125pt x 375.4025pt>
+File: GantChart.png Graphic file (type png)
+<use GantChart.png>
+Package pdftex.def Info: GantChart.png  used on input line 167.
+(pdftex.def)             Requested size: 585.0pt x 149.14444pt.
+ [9 <./GantChart.png>] (Tasarım Raporu -latex.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2922 strings out of 474485
+ 48366 string characters out of 5743265
+ 1933542 words of memory out of 5000000
+ 25183 multiletter control sequences out of 15000+600000
+ 562839 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,6n,95p,1040b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1
+/public/amsfonts/cm/cmti12.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "Tasarım Raporu -latex.pdf" (9 pages, 180539 bytes).
+PDF statistics:
+ 56 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

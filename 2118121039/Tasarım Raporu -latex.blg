@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Tasarım Raporu -latex.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Warning--can't use both volume and number fields in alfadilla2019optimization
+You've used 14 entries,
+            1876 wiz_defined-function locations,
+            576 strings with 6365 characters,
+and the built_in function-call counts, 4030 in all, are:
+= -- 417
+> -- 134
+< -- 0
++ -- 50
+- -- 36
+* -- 278
+:= -- 553
+add.period$ -- 15
+call.type$ -- 14
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 212
+empty$ -- 385
+format.name$ -- 36
+if$ -- 998
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 14
+newline$ -- 46
+num.names$ -- 14
+pop$ -- 41
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 283
+swap$ -- 96
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 43
+width$ -- 16
+write$ -- 146
+(There was 1 warning)
