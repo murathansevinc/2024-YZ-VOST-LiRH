@@ -1,0 +1,51 @@
+\begin{thebibliography}{10}
+
+\bibitem{derinOgrenme}
+A.~M. Hafiz.
+
+\bibitem{spaCy}
+spacy.
+
+\bibitem{Dikkate-dayalı-modelleme}
+J.~Devlin, ``Dil anlamak için derin Çift yönlü transformatörlerin Ön
+  eğitimi erişim adresi.'' https://arxiv.org/abs/1810.04805, (11 ekim 2023).
+\newblock Accessed: 10.03.2024.
+
+\bibitem{transformator2}
+A.~Vaswani, ``Attention is all you nee.''
+
+\bibitem{transformator1}
+maxime, ``hat is a transformer?.''
+  https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04,
+  (Jan 4, 2019).
+\newblock Accessed: 09.03.2024.
+
+\bibitem{Gan-nedir}
+İşnet blog, ``gan nedir.''
+  https://www.isnet.net.tr/blogicerik/generative-ai-nedir/, (Jan 4, 2019).
+\newblock Accessed: 09.03.2024.
+
+\bibitem{svd}
+A.~Blattmann.
+
+\bibitem{yakar2020yapay}
+G.~Yakar and M.~KINIK, ``Yapay zek{\^a} {\.i}le {\"u}retilen g{\"o}rsel
+  sanatlar eserlerinde fikr{\^\i} m{\"u}lkiyet,'' {\em Art-e Sanat Dergisi},
+  vol.~13, no.~26, pp.~490--516, 2020.
+
+\bibitem{Landscape-Pictures}
+A.~ROUGETET.
+
+\bibitem{litter-on-forest-floor}
+M.~KALKENINGS.
+
+\bibitem{weather-dataset}
+J.~BHATHENA.
+
+\bibitem{wang2018assessment}
+X.~Wang, Y.~Huang, L.~Li, H.~Dai, F.~Song, and K.~Chen, ``Assessment of
+  performance of the gail model for predicting breast cancer risk: a systematic
+  review and meta-analysis with trial sequential analysis,'' {\em Breast Cancer
+  Research}, vol.~20, pp.~1--19, 2018.
+
+\end{thebibliography}

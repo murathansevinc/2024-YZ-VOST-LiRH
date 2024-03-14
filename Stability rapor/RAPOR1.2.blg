@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: RAPOR1.2.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+Warning--string name "[https://arxiv.org/abs/1706.03762" is undefined
+--line 49 of file refs.bib
+I was expecting a `,' or a `}'---line 49 of file refs.bib
+ :  howpublished = [https://arxiv.org/abs/1706.03762 
+ :                                                   ]},
+I'm skipping whatever remains of this entry
+Warning--string name "makine" is undefined
+--line 61 of file refs.bib
+I was expecting a `,' or a `}'---line 61 of file refs.bib
+ :  title =  makine 
+ :                  görüşü için dikkat mekanizmaları ve derin öğrenme: En son teknolojinin incelenmesi},
+I'm skipping whatever remains of this entry
+Warning--string name "industrial-strengthnatural" is undefined
+--line 75 of file refs.bib
+I was expecting a `,' or a `}'---line 75 of file refs.bib
+ :  title =  industrial-strengthnatural 
+ :                                      Language Processing},
+I'm skipping whatever remains of this entry
+Warning--string name "stable" is undefined
+--line 89 of file refs.bib
+I was expecting a `,' or a `}'---line 89 of file refs.bib
+ :  title =   stable 
+ :                   Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets},
+I'm skipping whatever remains of this entry
+Warning--string name "landscape" is undefined
+--line 165 of file refs.bib
+I was expecting a `,' or a `}'---line 165 of file refs.bib
+ :  title =   landscape 
+ :                      Pictures},
+I'm skipping whatever remains of this entry
+Warning--string name "litter" is undefined
+--line 181 of file refs.bib
+I was expecting a `,' or a `}'---line 181 of file refs.bib
+ :  title =  litter 
+ :                  on forest floor},
+I'm skipping whatever remains of this entry
+Warning--string name "weather" is undefined
+--line 197 of file refs.bib
+I was expecting a `,' or a `}'---line 197 of file refs.bib
+ :  title =   weather 
+ :                    Image Recognition},
+I'm skipping whatever remains of this entry
+You've used 12 entries,
+            1876 wiz_defined-function locations,
+            529 strings with 4674 characters,
+and the built_in function-call counts, 1772 in all, are:
+= -- 158
+> -- 68
+< -- 0
++ -- 30
+- -- 18
+* -- 70
+:= -- 258
+add.period$ -- 14
+call.type$ -- 12
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 70
+empty$ -- 218
+format.name$ -- 18
+if$ -- 434
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 2
+newline$ -- 42
+num.names$ -- 12
+pop$ -- 44
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 87
+stack$ -- 0
+substring$ -- 51
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 18
+width$ -- 14
+write$ -- 89
+(There were 7 error messages)
