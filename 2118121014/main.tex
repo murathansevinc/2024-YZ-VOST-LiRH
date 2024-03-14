@@ -48,13 +48,35 @@ Son yıllarda derin öğrenme ve özellikle de Derin Pekiştirmeli Öğrenme (DP
 \newpage
 
 \noindent
-flyyufelix adlı github kullanıcısının yaptığı "donkeyrl" projesinde Donkey Car adı verilen bir arabanın bir pist etrafında RL kullanarak kendi kendine dönmesini sağlamıştır. Bu projede Double Deep Q Learning (DDQN) kullanılmıştır. DDQN, bir ajanın çevresiyle etkileşime girerek belirli bir durumda alabileceği eylemler arasında en uygun olanını seçmeyi öğrenen bir güçlendirme öğrenme algoritmasıdır. Bunu, bir Q-değer fonksiyonu kullanılarak gerçekleştirilir. Q-değer fonksiyonu, bir durum ve bir eylem çifti için beklenen toplam ödülü temsil eder.\\[15pt]
+flyyufelix adlı github kullanıcısının yaptığı "donkeyrl" projesinde\cite{flyyufelix} Donkey Car adı verilen bir arabanın bir pist etrafında RL kullanarak kendi kendine dönmesini sağlamıştır. Bu projede Double Deep Q Learning (DDQN) kullanılmıştır. DDQN, bir ajanın çevresiyle etkileşime girerek belirli bir durumda alabileceği eylemler arasında en uygun olanını seçmeyi öğrenen bir güçlendirme öğrenme algoritmasıdır. Bunu, bir Q-değer fonksiyonu kullanılarak gerçekleştirilir. Q-değer fonksiyonu, bir durum ve bir eylem çifti için beklenen toplam ödülü temsil eder.\\[15pt]
 
 \section{Yöntemler}
 \rule{\textwidth}{0.5pt}
 Bu projede, reinforcement learning algoritmalarını kullanarak bir aracın yarış pistinde optimal performansı öğrenmesini sağlamak için bir metodoloji izlenecektir. İlk olarak, yarış simülasyonu için uygun bir ortam oluşturulacak ve aracın bu ortamda hareket etmesi sağlanacaktır. Daha sonra, aracın davranışlarını kontrol etmek için bir reinforcement learning algoritması seçilecek ve bu algoritma modeli, aracın çevresini algılamasını ve çevresel faktörlere tepki vermesini sağlayacak şekilde ayarlanacaktır. Ardından, aracın deneyimlerinden öğrenerek, yarış pistinde en iyi performansı elde etmesini sağlamak için algoritma sürekli olarak güncellenecek ve iyileştirilecektir. Son olarak, algoritmanın eğitimi tamamlandıktan sonra, aracın gerçek zamanlı olarak yarış pistinde nasıl davrandığını test etmek için simülasyonlar üzerinde çeşitli denemeler yapılacak ve sonuçlar analiz edilecektir. Bu metodoloji, reinforcement learning'in araç yarışı gibi karmaşık görevlerde nasıl başarılı bir şekilde uygulanabileceğini anlamak için bir çerçeve sağlayacaktır.\\[5pt]
 \newline
-Bu projeyi uygulamaya geçireceğim platform olarak Unity oyun motorunu seçtim. Arayüz kullanılabilirliği, uygulama anlaşılabilirliği açısından en iyi performansı elde eteceğimi düşünüyorum. Kodlama açısından C Sharp dilini kullanacağım için Unity içerisinde Visual Studio Code uygulamasını kullanacağım. Arabanın kontorlleri, zamanlayıcı gibi kodlama gerektiren kısımları burada kodlayacağım.\\[15pt]
+Bu projeyi uygulamaya geçireceğim platform olarak Unity oyun motorunu seçtim. Arayüz kullanılabilirliği, uygulama anlaşılabilirliği açısından en iyi performansı elde eteceğimi düşünüyorum. Kodlama açısından C Sharp dilini kullanacağım için Unity içerisinde Visual Studio Code uygulamasını kullanacağım. Arabanın kontorlleri, zamanlayıcı gibi kodlama gerektiren kısımları burada kodlayacağım.\\[5pt]
+\newline
+Bu projede kullanılacak pist ve checkpoint noktaları aşağıda verilmiştir. Checkpointler tur zamanı tutmayı kolaylaştırırken ileride ödül sisteminin bir parçası olacak\\[5pt]
+
+
+\begin{figure}
+     \centering
+  \includegraphics[width=0.8\textwidth]{map.png}\centering
+  \caption{Harita}
+  \label{fig:resim_etiketi}
+  \vspace{0.5cm}
+  {Arabanın etrafında döneceği pist}
+\end{figure}
+
+\begin{figure}
+     \centering
+  \includegraphics[width=0.5\textwidth]{checkpoint1.png}\centering
+  \includegraphics[width=0.5\textwidth]{checkpoint2.png}\centering
+  \caption{Kontrol Noktaları}
+  \label{fig:resim_etiketi}
+  \vspace{0.5cm}
+  {Ödül sistemi olarak da kullanıladak checkpointler}
+\end{figure}
 
 \newpage
 
@@ -112,7 +134,7 @@ Projenin dokümantasyonunu hazırlanacak.\\[15pt]
 \thispagestyle{empty}
     \begin{figure}
      \centering
-  \includegraphics[width=1.8\textwidth]{Merged.png}\centering % Resim dosyasının adını ve uzantısını belirtin
+  \includegraphics[width=1.8\textwidth]{mergedpng.png}\centering % Resim dosyasının adını ve uzantısını belirtin
   \caption{Gantt Chart}
   \label{fig:resim_etiketi}
 \end{figure}
@@ -128,9 +150,9 @@ Projenin dokümantasyonunu hazırlanacak.\\[15pt]
 \bibliographystyle{ieeetr}
 \bibliography{atıf}
 
-\textit{Train Donkey Car in Unity Simulator with Reinforcement Learning}, 2018.
-\par
-\url{https://github.com/flyyufelix/donkey_rl}
+%\textit{Train Donkey Car in Unity Simulator with Reinforcement Learning}, 2018.
+%\par
+%\url{https://github.com/flyyufelix/donkey_rl}
 
 \end{document}
 
