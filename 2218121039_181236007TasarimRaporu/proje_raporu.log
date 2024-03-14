@@ -1,0 +1,324 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.29)  14 MAR 2024 15:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./proje_raporu.tex
+(proje_raporu.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.st
+y
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.s
+ty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defa
+ults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box51
+) (proje_raporu.aux)
+\openout1 = `proje_raporu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen145
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\SEVVAL\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.de
+f
+File: fc-english.def 2016/01/12
+)
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 15.
+
+<ksbu.jpeg, id=1, 170.6375pt x 171.64125pt>
+File: ksbu.jpeg Graphic file (type jpg)
+<use ksbu.jpeg>
+Package pdftex.def Info: ksbu.jpeg  used on input line 17.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+
+Overfull \hbox (8.0468pt too wide) in paragraph at lines 24--38
+\OT1/cmr/m/n/12 ginin artt^^P^^Ug^^P ve kul-lan^^Plmaya ba^^Xslanan ^^?ozellikl
+erdir. Bunda ^^?ozelliklerin i^^Xslenmek
+ []
+
+
+Overfull \hbox (19.90547pt too wide) in paragraph at lines 24--38
+\OT1/cmr/m/n/12 g^^?ore ki^^Xsilerin elinin veya iki parma^^Ug^^Pn^^Pn ge-ometr
+ik yap^^Ps^^P analiz edilir.Parmaklar^^Pn
+ []
+
+
+Overfull \hbox (0.70103pt too wide) in paragraph at lines 24--38
+\OT1/cmr/m/n/12 tan^^Pma sis-tem-leri i^^Xcin ^^?oncelikle bir g^^?or^^?unt^^?u
+ kaydedilir. Kaydedilen bu g^^?or^^?unt^^?u
+ []
+
+[1
+
+{C:/Users/SEVVAL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ksbu.jpeg
+>]
+Overfull \hbox (15.39719pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 Ki^^Xsilerin el ge-ometri-ler-ine ait ver-i-lerinin kul-lan^^Pl
+aca^^Ug^^P veri seti olu^^Xsturulur.Bunun
+ []
+
+
+Overfull \hbox (13.80414pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 ^^?ozelliklerinin ^^Xc^^Pkar^^Pm^^Pn^^P yap-mak i^^Xcin be-lir-
+lenen el ge-ometrisi ^^?ozellikleri ^^?uzerinden
+ []
+
+
+Overfull \hbox (14.77034pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 ^^?ozellik vekt^^?orleri ^^Xc^^Pkar^^Pl^^Pr. Bu ^^?ozellik vekt
+^^?orleri, her bir elin ben-z-er-siz ^^?ozelliklerini
+ []
+
+<hand2.png, id=9, 453.695pt x 558.085pt>
+File: hand2.png Graphic file (type png)
+<use hand2.png>
+Package pdftex.def Info: hand2.png  used on input line 49.
+(pdftex.def)             Requested size: 453.6939pt x 558.08365pt.
+
+Overfull \hbox (63.6939pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]
+
+LaTeX Warning: Text page 3 contains only floats.
+
+[3 <./hand2.png>]
+Overfull \hbox (24.70537pt too wide) in paragraph at lines 59--61
+[]\OT1/cmr/m/n/12 d^^?u^^Xs^^?uk ^^Xsablon boyutu (352'den 1209 bayta kadar) de
+-po-lama ihtiya^^Xclar^^Pn^^P
+ []
+
+
+Overfull \hbox (7.98152pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/12 malar^^P gerek-mez. Bu gri se-viye g^^?or^^?unt^^?ulerin her bi
+ri hiza-lan^^Pr ve ard^^Pndan
+ []
+
+
+Overfull \hbox (7.32875pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/12 avu^^Xc izi ve el ge-ometrisi ^^?ozelliklerini ^^Xc^^Pkarmak i^
+^Xcin kul-lan^^Pl^^Pr. Bu ^^?ozellikler
+ []
+
+(proje_raporu.bbl) [4] (proje_raporu.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3238 strings out of 474485
+ 54322 string characters out of 5743262
+ 1933542 words of memory out of 5000000
+ 25492 multiletter control sequences out of 15000+600000
+ 560532 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,79p,1594b,334s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/SEVVAL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/SEVVAL/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/SEVVAL/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Users/SEVVAL/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on proje_raporu.pdf (4 pages, 242877 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
