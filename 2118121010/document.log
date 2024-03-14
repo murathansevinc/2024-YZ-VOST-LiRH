@@ -1,0 +1,377 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.1)  10 MAR 2024 15:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(document.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.st
+y
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.s
+ty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defa
+ults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks20
+\dt@b=\toks21
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count288
+\c@continuedfloat=\count289
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count290
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count291
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-no
+metadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box51
+) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.de
+f
+File: fc-english.def 2016/01/12
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen152
+\scratchbox=\box52
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen153
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks23
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<images/logo.jpg, id=1, 127.97812pt x 128.73094pt>
+File: images/logo.jpg Graphic file (type jpg)
+<use images/logo.jpg>
+Package pdftex.def Info: images/logo.jpg  used on input line 17.
+(pdftex.def)             Requested size: 199.18224pt x 170.73068pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+<Activemarker2.png, id=2, 401.5pt x 286.06876pt>
+File: Activemarker2.png Graphic file (type png)
+<use Activemarker2.png>
+Package pdftex.def Info: Activemarker2.png  used on input line 29.
+(pdftex.def)             Requested size: 426.81937pt x 142.26578pt.
+
+Overfull \hbox (36.81937pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+[1
+
+{C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/lo
+go.jpg> <./Activemarker2.png>]
+Overfull \hbox (5.11812pt too wide) in paragraph at lines 36--42
+\OT1/cmr/m/n/12 Hareket yakalama teknolo-jisi (mo-tion cap-ture), y^^?uzy^^Pl^^
+P a^^Xsk^^Pn bir s^^?ure i^^Xcerisinde
+ []
+
+
+Overfull \hbox (6.232pt too wide) in paragraph at lines 36--42
+\OT1/cmr/m/n/12 in-sanl^^P^^Ug^^Pn geli^^Xstirdi^^Ugi teknolo-jinin etk-i-leri 
+ile b^^?uy^^?uk ^^?ol^^Xc^^?ude geli^^Xsim g^^?ostermi^^Xstir.
+ []
+
+
+Overfull \hbox (8.32086pt too wide) in paragraph at lines 36--42
+\OT1/cmr/m/n/12 al^^Pc^^Pya iletilmesi olarak tan^^Pmlanan hareket yakalama tek
+nolo-jisi [[]], i^^Xsaretleyici
+ []
+
+
+Overfull \hbox (1.87602pt too wide) in paragraph at lines 36--42
+\OT1/cmr/m/n/12 ta-banl^^P ve i^^Xsaretleyici ta-banl^^P ol-mayan sis-tem-ler o
+larak ikiye ayr^^Plm^^P^^Xst^^Pr. []I^^Xsaret
+ []
+
+
+Overfull \hbox (24.70541pt too wide) in paragraph at lines 36--42
+\OT1/cmr/m/n/12 v^^?ucudunun ^^?onemli ek-lem b^^?olgelerine yerle^^Xstirilerek
+ hareket bil-gisinin ^^?uretilmesidir.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--42
+
+ []
+
+<işaretTabanli.png, id=9, 151.16475pt x 216.81pt>
+File: işaretTabanli.png Graphic file (type png)
+<use işaretTabanli.png>
+Package pdftex.def Info: işaretTabanli.png  used on input line 47.
+(pdftex.def)             Requested size: 142.27017pt x 142.27127pt.
+<işaretTabanliOlmayan.png, id=11, 479.391pt x 339.06676pt>
+File: işaretTabanliOlmayan.png Graphic file (type png)
+<use işaretTabanliOlmayan.png>
+Package pdftex.def Info: işaretTabanliOlmayan.png  used on input line 51.
+(pdftex.def)             Requested size: 142.26764pt x 142.26219pt.
+[2 <./işaretTabanli.png> <./işaretTabanliOlmayan.png>]
+Overfull \hbox (10.61531pt too wide) in paragraph at lines 63--66
+\OT1/cmr/m/n/12 filmi olan Hu-mor-ous Phases Faces'i (Komik Y^^?uzlerin Mizahi 
+Evreleri) g^^?osterime
+ []
+
+<film.png, id=18, 490.2315pt x 145.7445pt>
+File: film.png Graphic file (type png)
+<use film.png>
+Package pdftex.def Info: film.png  used on input line 69.
+(pdftex.def)             Requested size: 284.52895pt x 85.35915pt.
+
+Overfull \hbox (10.3315pt too wide) in paragraph at lines 75--81
+\OT1/cmr/m/n/12 yard^^Pm^^P ile ger^^Xcek za-manl^^P olarak kay-det-meyi ba^^Xs
+arm^^P^^Xst^^Pr. Bu ilkel bir te^^Xchizatt^^P
+ []
+
+
+Overfull \hbox (5.14404pt too wide) in paragraph at lines 75--81
+\OT1/cmr/m/n/12 an-cak ger^^Xcek za-manl^^P hareket yakala-man^^Pn ilk ^^?orne^
+^Ugidir. 1980'lere gelindi^^Uginde
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+
+Overfull \hbox (21.65082pt too wide) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 ad^^P ver-ilen is-tatis-tik-sel bir ^^Xc^^Pkar^^Pm y^^?ontemi k
+ul-lan^^Pl^^Pr. SMA, kareler ve g^^?or^^?un^^?umler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+[3 <./film.png>]
+Overfull \hbox (12.1126pt too wide) in paragraph at lines 89--90
+\OT1/cmr/m/n/12 i^^Xcin OpenCV k^^?ut^^?uphanesi kul-lan^^Plm^^P^^Xst^^Pr.V^^?u
+cut tespiti i^^Xcin ise Google taraf^^Pndan
+ []
+
+
+Overfull \hbox (19.54852pt too wide) in paragraph at lines 89--90
+\OT1/cmr/m/n/12 tion, im-age clas-si-fi-ca-tion ve test clas-si-fi-ca-tion gibi
+ bir^^Xcok model bar^^Pnd^^Prmaktad^^Pr. 
+ []
+
+<pose_landmarks.png, id=23, 455.45157pt x 240.14719pt>
+File: pose_landmarks.png Graphic file (type png)
+<use pose_landmarks.png>
+Package pdftex.def Info: pose_landmarks.png  used on input line 95.
+(pdftex.def)             Requested size: 390.0pt x 205.63942pt.
+[4 <./pose_landmarks.png>]
+<x.png, id=28, 785.334pt x 180.07275pt>
+File: x.png Graphic file (type png)
+<use x.png>
+Package pdftex.def Info: x.png  used on input line 110.
+(pdftex.def)             Requested size: 620.467pt x 142.26378pt.
+
+Overfull \hbox (28.467pt too wide) in paragraph at lines 110--112
+ [][] 
+ []
+
+[5
+
+ <./x.png>] (document.bbl) [6
+
+] (document.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4317 strings out of 474486
+ 75534 string characters out of 5743284
+ 1932542 words of memory out of 5000000
+ 26581 multiletter control sequences out of 15000+600000
+ 561446 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,9n,117p,1706b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (6 pages, 1717950 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

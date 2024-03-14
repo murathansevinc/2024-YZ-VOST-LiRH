@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{ozkiricscci2022motion}
+{\.I}.~H. {\"O}ZK{\.I}R{\.I}{\c{S}}{\c{C}}{\.I}, ``Motion capture
+  teknoloj{\.i}s{\.i}n{\.i}n hareketl{\.i} af{\.i}{\c{s}}lerde kullanimina
+  {\"o}rnek b{\.i}r {\c{c}}ali{\c{s}}ma,'' {\em F{\i}rat {\"U}niversitesi
+  Sosyal Bilimler Dergisi}, vol.~32, no.~3, pp.~1027--1041, 2022.
+
+\bibitem{erdem2021sanali}
+{\"O}.~{\"U}.~S. ERDEM, ``Sanali ger{\c{c}}e{\u{g}}e
+  d{\"o}n{\"u}{\c{s}}t{\"u}rmede hareket yakalama teknoloj{\.i}s{\.i},'' 2021.
+
+\bibitem{rosalesestimating}
+R.~Rosales, M.~Siddiqui, J.~Alon, and S.~Sclaroff, ``Estimating 3d body pose
+  using uncalibrated cameras, 2001, pp.''
+
+\bibitem{desmarais2021review}
+Y.~Desmarais, D.~Mottet, P.~Slangen, and P.~Montesinos, ``A review of 3d human
+  pose estimation algorithms for markerless motion capture,'' {\em Computer
+  Vision and Image Understanding}, vol.~212, p.~103275, 2021.
+
+\end{thebibliography}
