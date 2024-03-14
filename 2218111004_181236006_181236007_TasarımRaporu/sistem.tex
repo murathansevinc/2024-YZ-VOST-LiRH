@@ -1,0 +1,86 @@
+
+\documentclass[12pt, a4paper]{article}
+
+\usepackage{pdflscape} % pdflscape
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+%Tarih Ekleme
+\usepackage[ddmmyyyy]{datetime}
+\renewcommand{\dateseparator}{.}
+\renewcommand{\figurename}{Şekil}
+\renewcommand{\refname}{Kaynakça}
+\usepackage{hyperref}
+\usepackage{natbib}
+
+
+
+
+
+\title{\bf\fontsize{12pt}{14pt}\selectfont KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ \\ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ}
+\date{}
+
+
+\begin{document}
+	\maketitle
+
+	\begin{center}
+		\includegraphics[width=0.25\linewidth]{ksbu.jpg}
+	\end{center}
+	
+	
+	\begin{center}
+		\vspace{1cm} 
+	\end{center}
+	\begin{center}
+		\title{\bf\fontsize{12pt}{14pt}\selectfont Veri Odaklı Sistem Tasarımı }
+	\end{center}
+	\begin{center}
+		\title{\bf\fontsize{12pt}{14pt}\selectfont Tasarım Dokümanı Hazırlama Kılavuzu}
+	\end{center}
+	\begin{center}
+		\vspace{1cm} % Vertical space of 1cm
+	\end{center}
+	\begin{center}
+		
+		
+		\author{\bf\fontsize{12pt}{14pt}Halil Şimşek \hspace{1.5cm}2218111004}
+		
+		\begin{center}
+			\vspace{1cm} 
+		\end{center}
+		\date{\textbf{\today}}
+	\end{center}
+	\newpage
+
+\section{Giriş}
+\input{giris.tex}
+
+\section{Literatür Araştırması}
+Bu proje, Library-management-system adlı açık kaynak kodlu bir projeden alıntılar içerebilir. Library-management-system projesi, [\url{https://github.com/prabhakar267/library-management-system.git}]
+adresinden eişilebilir. \newline
+Aynı zamanda Library-Management-System-JAVA adlı proje üzerinden de bilgiler toplanmıştır. Library-Management-System-JAVA
+projesine [\url{https://github.com/OSSpk/Library-Management-System-JAVA.git}] adresinden erişebilirsiniz
+
+
+
+\newpage
+\section{Metodoloji}	
+\input{metodoloji.tex}
+
+\section{Veri Tabanı ve Veriler}	
+\input{veri.tex}
+
+\section{Beklenen Sonuçlar}
+
+Panelin, kullanıcıların kolayca erişebileceği ve etkileşimde bulunabileceği kullanıcı dostu arayüze sahip olması beklenmektedir . Bu, kullanıcıların kitap ekleme, düzenleme, silme gibi işlemleri hızlı ve verimli bir şekilde gerçekleştirebilmelerini  sağlayacaktır.\newline
+Panelin, farklı kategorilerde kitapları yönetme yeteneği sağlaması beklenmektedir. Kullanıcıların kitapları başlık, yazar,  gibi özelliklere göre arama yapabilmeleri ve filtreleyebilmeleri gerekmektedir.\newline
+Panelin, kullanıcıların kitap koleksiyonu içinde hızlıca arama yapabilmelerini sağlayacak gelişmiş arama ve filtreleme özelliklerine sahip olması beklenmektedir. Bu özellikler, kullanıcıların istedikleri kitapları kolayca bulmalarını sağlayacak şekilde tasarlanmalıdır.\newpage
+
+
+	%Kaynakçayı yazdırmak
+	\bibliographystyle{ieeetr}
+	\bibliography{references.bib} 
+	%\printbibliography %Prints bibliography
+	
+	
+\end{document}
