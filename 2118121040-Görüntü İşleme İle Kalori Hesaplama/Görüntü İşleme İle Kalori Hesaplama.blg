@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Görüntü İşleme İle Kalori Hesaplama.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: kaynakca.bib
+I was expecting a `,' or a `}'---line 21 of file kaynakca.bib
+ :  
+ :  url={https://www.youtube.com/playlist?list=PLFZaDMvZbrOQj7EgkCVO60aPx9yb8wsrL}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in chatGPT
+Warning--empty author in chatGPT
+Warning--empty journal in chatGPT
+Warning--empty journal in Ddataguess
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            549 strings with 4887 characters,
+and the built_in function-call counts, 2421 in all, are:
+= -- 231
+> -- 78
+< -- 0
++ -- 34
+- -- 22
+* -- 99
+:= -- 453
+add.period$ -- 34
+call.type$ -- 12
+change.case$ -- 47
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 117
+empty$ -- 211
+format.name$ -- 22
+if$ -- 488
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 11
+newline$ -- 61
+num.names$ -- 22
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 84
+stack$ -- 0
+substring$ -- 60
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 4
+while$ -- 22
+width$ -- 14
+write$ -- 116
+(There was 1 error message)
