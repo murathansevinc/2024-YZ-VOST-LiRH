@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template_Article.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: document.bib
+Warning--entry type for "haber1" isn't style-file defined
+--line 33 of file document.bib
+Warning--entry type for "site1" isn't style-file defined
+--line 49 of file document.bib
+You've used 6 entries,
+            1876 wiz_defined-function locations,
+            513 strings with 4694 characters,
+and the built_in function-call counts, 1597 in all, are:
+= -- 167
+> -- 42
+< -- 0
++ -- 17
+- -- 11
+* -- 79
+:= -- 204
+add.period$ -- 6
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 98
+empty$ -- 155
+format.name$ -- 11
+if$ -- 414
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 4
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 91
+stack$ -- 0
+substring$ -- 88
+swap$ -- 54
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 13
+width$ -- 7
+write$ -- 56
+(There were 2 warnings)
