@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{chatGPT}
+Gpt yardımı ile cümle düzenlenmesi.
+\newblock 2020.
+
+\bibitem{Ddataguess}
+Ddataguess.
+\newblock Ddataguess.
+\newblock 2023.
+
+\bibitem{Tensorflow}
+hesap.
+\newblock tensorflow ile görüntü isleme.
+\newblock {\em tensorflow nasıl kullanılır?}, 2023.
+
+\bibitem{CNNproje2}
+https://www.kaggle.com/code/datajameson/cifar-10-object-recognition-cnn
+  explained/notebook.
+\newblock Cnn proje2.
+\newblock {\em CNN Nedir, Ne İşe Yarar?}, 2019.
+
+\bibitem{CNNproje}
+https://www.kaggle.com/code/shivamb/cnn-architectures-vgg-resnet-inception tl.
+\newblock Cnn proje.
+\newblock {\em CNN Nedir, Ne İşe Yarar?}, 2021.
+
+\bibitem{kalorihesabı}
+kaloricetveli.org.
+\newblock kalori hesabı için referans.
+\newblock {\em kaloricetveli}, 2023.
+
+\bibitem{opencv}
+MESUT.
+\newblock Opencv ile goruntu isleme, 2016.
+
+\bibitem{Roboflow}
+roboflow.
+\newblock Roboflow.
+\newblock {\em Roboflow Blog}, 2024.
+
+\bibitem{SOCARTürkiye}
+SOCAR.
+\newblock Socar türkiye.
+\newblock {\em SOCAR Blog}, 2023.
+
+\bibitem{yolov9}
+ultralytics.
+\newblock yolov9 nedir?
+\newblock {\em yolov9}, 2024.
+
+\bibitem{roboflowvideo}
+Özgür kan.
+\newblock Roboflow İle veri seti hazırlama.
+\newblock {\em roboflow nasıl kullanılır?}, 2023.
+
+\bibitem{yoloandopencv}
+MR~çilek.
+\newblock yolo ve opencv ile görüntü işleme.
+\newblock {\em görüntü işleme}, 2023.
+
+\end{thebibliography}

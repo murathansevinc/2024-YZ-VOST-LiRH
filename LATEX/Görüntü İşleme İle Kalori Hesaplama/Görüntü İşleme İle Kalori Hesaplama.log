@@ -1,0 +1,468 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.7)  14 MAR 2024 15:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Görüntü İşleme İle Kalori Hesaplama.tex"
+(Görüntü İşleme İle Kalori Hesaplama.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks23
+) (C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip53
+\bibsep=\skip54
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count197
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape.s
+ty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkeyval.tex
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkvutils.te
+x
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcnumparser.
+sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count266
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen143
+)
+\c@padzeroesN=\count267
+\fc@tmpcatcode=\count268
+\@DT@modctr=\count269
+\@ordinalctr=\count270
+\@orgargctr=\count271
+\@strctr=\count272
+\@tmpstrctr=\count273
+\@DT@loopN=\count274
+\@DT@X=\count275
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime-def
+aults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count276
+\@month=\count277
+\@year=\count278
+\c@HOUR=\count279
+\c@HOURXII=\count280
+\c@MINUTE=\count281
+\c@TOHOUR=\count282
+\c@TOMINUTE=\count283
+\c@SECOND=\count284
+\currenthour=\count285
+\currentminute=\count286
+\currentsecond=\count287
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count288
+\dayofyear=\count289
+\dayofweek=\count290
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks28
+\dt@b=\toks29
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box51
+) (Görüntü İşleme İle Kalori Hesaplama.aux)
+\openout1 = `"Görüntü İşleme İle Kalori Hesaplama.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count292
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen145
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks31
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fc-english.d
+ef
+File: fc-english.def 2016/01/12
+)
+<./images/ksbu.jpg, id=1, 170.6375pt x 171.64125pt>
+File: ./images/ksbu.jpg Graphic file (type jpg)
+<use ./images/ksbu.jpg>
+Package pdftex.def Info: ./images/ksbu.jpg  used on input line 30.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+
+ (C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+
+(C:\Users\Melisa\AppData\Local\Programs\MiKTeX1\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/Melisa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/ks
+bu.jpg>] [2]
+<./images/roboflow.png, id=14, 950.04938pt x 424.58624pt>
+File: ./images/roboflow.png Graphic file (type png)
+<use ./images/roboflow.png>
+Package pdftex.def Info: ./images/roboflow.png  used on input line 75.
+(pdftex.def)             Requested size: 360.0pt x 160.88446pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+<./images/etiketleme.png, id=19, 901.11656pt x 447.17062pt>
+File: ./images/etiketleme.png Graphic file (type png)
+<use ./images/etiketleme.png>
+Package pdftex.def Info: ./images/etiketleme.png  used on input line 85.
+(pdftex.def)             Requested size: 360.0pt x 178.64673pt.
+<./images/etiket_ornek.png, id=20, 587.94656pt x 418.56375pt>
+File: ./images/etiket_ornek.png Graphic file (type png)
+<use ./images/etiket_ornek.png>
+Package pdftex.def Info: ./images/etiket_ornek.png  used on input line 93.
+(pdftex.def)             Requested size: 360.0pt x 256.2879pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./images/roboflow.png> <./images/etiketleme.png>]
+<./images/yolo.png, id=26, 545.78906pt x 235.63031pt>
+File: ./images/yolo.png Graphic file (type png)
+<use ./images/yolo.png>
+Package pdftex.def Info: ./images/yolo.png  used on input line 106.
+(pdftex.def)             Requested size: 360.0pt x 155.4194pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./images/etiket_ornek.png>]
+<./images/OpenCV.png, id=31, 1027.84pt x 1266.7325pt>
+File: ./images/OpenCV.png Graphic file (type png)
+<use ./images/OpenCV.png>
+Package pdftex.def Info: ./images/OpenCV.png  used on input line 120.
+(pdftex.def)             Requested size: 90.0pt x 110.9084pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./images/yolo.png>]
+<./images/Tensorflow.png, id=36, 1027.84pt x 513.92pt>
+File: ./images/Tensorflow.png Graphic file (type png)
+<use ./images/Tensorflow.png>
+Package pdftex.def Info: ./images/Tensorflow.png  used on input line 131.
+(pdftex.def)             Requested size: 360.0pt x 180.00015pt.
+ [7 <./images/OpenCV.png> <./images/Tensorflow.png>]
+[8]
+<./images/Roadmap.png, id=46, 963.6pt x 515.67656pt>
+File: ./images/Roadmap.png Graphic file (type png)
+<use ./images/Roadmap.png>
+Package pdftex.def Info: ./images/Roadmap.png  used on input line 155.
+(pdftex.def)             Requested size: 699.62871pt x 374.39758pt.
+
+Overfull \hbox (103.82845pt too wide) in paragraph at lines 155--156
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 40.12622pt on input line 158.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./images/Roadmap.png>]
+<./images/İş Akış Şeması.png, id=51, 690.32906pt x 394.47375pt>
+File: ./images/İş Akış Şeması.png Graphic file (type png)
+<use ./images/İş Akış Şeması.png>
+Package pdftex.def Info: ./images/İş Akış Şeması.png  used on input line 
+165.
+(pdftex.def)             Requested size: 655.19795pt x 374.39758pt.
+
+Overfull \hbox (59.39769pt too wide) in paragraph at lines 165--166
+[][]  
+ []
+
+
+LaTeX Warning: Float too large for page by 40.12622pt on input line 168.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./images/İş Akış Şeması.png>]
+<./images/resim1.jpg, id=56, 4641.34pt x 3481.005pt>
+File: ./images/resim1.jpg Graphic file (type jpg)
+<use ./images/resim1.jpg>
+Package pdftex.def Info: ./images/resim1.jpg  used on input line 178.
+(pdftex.def)             Requested size: 4641.32874pt x 3480.99655pt.
+<./images/resim2.jpg, id=57, 4641.34pt x 3481.005pt>
+File: ./images/resim2.jpg Graphic file (type jpg)
+<use ./images/resim2.jpg>
+Package pdftex.def Info: ./images/resim2.jpg  used on input line 187.
+(pdftex.def)             Requested size: 180.0pt x 134.96722pt.
+<./images/resim3.jpg, id=58, 2899.83376pt x 4641.34pt>
+File: ./images/resim3.jpg Graphic file (type jpg)
+<use ./images/resim3.jpg>
+Package pdftex.def Info: ./images/resim3.jpg  used on input line 195.
+(pdftex.def)             Requested size: 2899.8267pt x 4641.32874pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/resim4.jpg, id=59, 4015.0pt x 2256.43pt>
+File: ./images/resim4.jpg Graphic file (type jpg)
+<use ./images/resim4.jpg>
+Package pdftex.def Info: ./images/resim4.jpg  used on input line 203.
+(pdftex.def)             Requested size: 4014.99026pt x 2256.42451pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11
+
+
+
+
+ <./images/resim1.jpg> <./images/resim2.jpg>]
+<./images/resim5.jpg, id=63, 4641.34pt x 3481.005pt>
+File: ./images/resim5.jpg Graphic file (type jpg)
+<use ./images/resim5.jpg>
+Package pdftex.def Info: ./images/resim5.jpg  used on input line 211.
+(pdftex.def)             Requested size: 180.0pt x 134.96722pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/resim6.jpg, id=64, 4641.34pt x 3481.005pt>
+File: ./images/resim6.jpg Graphic file (type jpg)
+<use ./images/resim6.jpg>
+Package pdftex.def Info: ./images/resim6.jpg  used on input line 219.
+(pdftex.def)             Requested size: 4641.32874pt x 3480.99655pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/resim7.jpg, id=65, 4641.34pt x 3481.005pt>
+File: ./images/resim7.jpg Graphic file (type jpg)
+<use ./images/resim7.jpg>
+Package pdftex.def Info: ./images/resim7.jpg  used on input line 227.
+(pdftex.def)             Requested size: 4641.32874pt x 3480.99655pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/resim8.jpg, id=66, 4641.34pt x 3481.005pt>
+File: ./images/resim8.jpg Graphic file (type jpg)
+<use ./images/resim8.jpg>
+Package pdftex.def Info: ./images/resim8.jpg  used on input line 234.
+(pdftex.def)             Requested size: 360.0pt x 269.98756pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./images/resim3.jpg> <./images/resim4.jpg>] [13 <./images/resim5.jpg> <./i
+mages/resim6.jpg>] [14 <./images/resim7.jpg> <./images/resim8.jpg>] [15
+
+]
+(Görüntü İşleme İle Kalori Hesaplama.bbl [16]) [17
+
+]
+(Görüntü İşleme İle Kalori Hesaplama.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4775 strings out of 474457
+ 76965 string characters out of 5741814
+ 1931190 words of memory out of 5000000
+ 27004 multiletter control sequences out of 15000+600000
+ 570217 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,79p,1312b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Melisa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
+i1095.pk> <C:\Users\Melisa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbx2488.pk> <C:\Users\Melisa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1095.pk> <C:\Users\Melisa\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecrm1095.pk> <C:\Users\Melisa\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Melisa\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Melisa\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Melisa\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk>
+Output written on "Görüntü İşleme İle Kalori Hesaplama.pdf" (17 pages, 34
+836350 bytes).
+PDF statistics:
+ 355 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
