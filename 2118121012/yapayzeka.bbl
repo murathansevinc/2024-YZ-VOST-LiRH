@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{9628901}
+A.~Aidarbekov, G.~Shakhmetova, K.~Asmaganbetova, Z.~Bekish, A.~Kyzyrkanov, and
+  A.~Salimzhanov, ``Informational technologies in film production - how ict
+  shaping media industry,'' in {\em 2021 IEEE 4th International Conference on
+  Advanced Information and Communication Technologies (AICT)}, pp.~137--140,
+  2021.
+
+\bibitem{8099502}
+C.~Ledig, L.~Theis, F.~Huszár, J.~Caballero, A.~Cunningham, A.~Acosta,
+  A.~Aitken, A.~Tejani, J.~Totz, Z.~Wang, and W.~Shi, ``Photo-realistic single
+  image super-resolution using a generative adversarial network,'' in {\em 2017
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pp.~105--114, 2017.
+
+\bibitem{goodfellow2014generative}
+I.~Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, and Y.~Bengio, ``Generative adversarial nets,'' {\em Advances
+  in neural information processing systems}, vol.~27, 2014.
+
+\bibitem{masood2023deepfakes}
+M.~Masood, M.~Nawaz, K.~M. Malik, A.~Javed, A.~Irtaza, and H.~Malik,
+  ``Deepfakes generation and detection: State-of-the-art, open challenges,
+  countermeasures, and way forward,'' {\em Applied intelligence}, vol.~53,
+  no.~4, pp.~3974--4026, 2023.
+
+\bibitem{Generated-2024-03-08}
+``Generated photos | unique, worry-free model photos.''
+  \url{https://generated.photos/}, 2024.
+\newblock Accessed: 2024-03-08.
+
+\bibitem{Datagen-2024-03-08}
+``Datagen | generate synthetic data for computer vision.''
+  \url{https://datagen.tech/}, 2024.
+\newblock Accessed: 2024-03-08.
+
+\bibitem{shadmi2021using}
+R.~Shadmi, J.~Laserson, and G.~Elbaz, ``Using synthetic images to uncover
+  population biases in facial landmarks detection,'' {\em arXiv preprint
+  arXiv:2111.01683}, 2021.
+
+\bibitem{yudkin2022hands}
+P.~Yudkin, E.~Friedman, O.~Zvitia, and G.~Elbaz, ``Hands-up: Leveraging
+  synthetic data for hands-on-wheel detection,'' {\em arXiv preprint
+  arXiv:2206.00148}, 2022.
+
+\bibitem{Random-2024-03-10}
+``Random face generator - face generator - ai tool - this person does not
+  exist.'' \url{https://www.marketingtool.online/en/face-generator/}, 2024.
+\newblock Accessed: 2024-03-10.
+
+\bibitem{heaton2020applications}
+J.~Heaton, ``Applications of deep neural networks with keras,'' {\em arXiv
+  preprint arXiv:2009.05673}, 2020.
+
+\bibitem{DCGAN-Face-Generator.ipynb-2024-03-13}
+``Dcgan-face-generator.ipynb - colaboratory.''
+  \url{https://colab.research.google.com/github/alex-parisi/DCGAN-Face-Generator/blob/main/DCGAN_Face_Generator.ipynb#scrollTo=6bKCgZKyQE-c},
+  2024.
+\newblock Accessed: 2024-03-13.
+
+\bibitem{Generate-2024-03-13}
+``Generate artificial faces with celeba progressive.''
+  \url{https://www.kaggle.com/code/kerneler/generate-artificial-faces-with-celeba-progressive},
+  2024.
+\newblock Accessed: 2024-03-13.
+
+\bibitem{CelebAMask-HQ}
+C.-H. Lee, Z.~Liu, L.~Wu, and P.~Luo, ``Maskgan: Towards diverse and
+  interactive facial image manipulation,'' in {\em IEEE Conference on Computer
+  Vision and Pattern Recognition (CVPR)}, 2020.
+
+\end{thebibliography}
