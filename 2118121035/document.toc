@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Giriş}{2}{}%
+\contentsline {section}{\numberline {2}Literatür Taraması}{2}{}%
+\contentsline {section}{\numberline {3}Metodoloji}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Sistem Tasarımı}{5}{}%
+\contentsline {section}{\numberline {4}Veriler - Frekans Değerleri}{6}{}%
+\contentsline {section}{\numberline {5}Beklenen Sonuçlar}{7}{}%
