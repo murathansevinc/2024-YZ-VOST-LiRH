@@ -1,0 +1,685 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.29)  14 MAR 2024 15:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./elden_kişi_tespiti.tex
+(elden_kişi_tespiti.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
+ls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.cl
+o
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.
+sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbab
+el.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.
+cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/babel-turkish\
+turkish.ldf
+Language: turkish 2019/07/05 v1.4 Turkish support from the babel system
+Package babel Info: Making : an active character on input line 163.
+Package babel Info: Making ! an active character on input line 164.
+Package babel Info: Making = an active character on input line 194.
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale
+/tr\babel-turkish.tex
+Package babel Info: Importing font and identification data for turkish
+(babel)             from babel-tr.ini. Reported on input line 11.
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+icx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyva
+l.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+ics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
+sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
+raphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
+dftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcol
+orbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgf.sty
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfrcs.sty
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen144
+\pgfutil@tempdimb=\dimen145
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-latex.def
+\pgfutil@abb=\box51
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revi
+sion.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgfcore.sty
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlaye
+r\pgfsys.sty
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
+\pgf@xd=\dimen154
+\pgf@yd=\dimen155
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count197
+\c@pgf@countb=\count198
+\c@pgf@countc=\count199
+\c@pgf@countd=\count266
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count267
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count268
+\pgfsyssoftpath@bigbuffer@items=\count269
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.
+sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\c
+olor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathc
+olor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathutil.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathparser.code.tex
+\pgfmath@dimen=\dimen156
+\pgfmath@count=\count270
+\pgfmath@box=\box52
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathcalc.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count271
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+int.code.tex)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count272
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen175
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen179
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count273
+\pgf@shadingcount=\count274
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim
+.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks28
+\verbatim@line=\toks29
+\verbatim@in@stream=\read4
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/environ\enviro
+n.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\tri
+mspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks30
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etool
+box.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
+)
+\tcb@titlebox=\box58
+\tcb@upperbox=\box59
+\tcb@lowerbox=\box60
+\tcb@phantombox=\box61
+\c@tcbbreakpart=\count276
+\c@tcblayer=\count277
+\c@tcolorbox@number=\count278
+\l__tcobox_tmpa_box=\box62
+\l__tcobox_tmpa_dim=\dimen183
+\tcb@temp=\box63
+\tcb@temp=\box64
+\tcb@temp=\box65
+\tcb@temp=\box66
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datet
+ime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtco
+unt.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.st
+y
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyva
+l.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkey
+val.tex
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvu
+tils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcpre
+fix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnum
+parser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count280
+))
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen
+.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen184
+)
+\c@padzeroesN=\count281
+\fc@tmpcatcode=\count282
+\@DT@modctr=\count283
+\@ordinalctr=\count284
+\@orgargctr=\count285
+\@strctr=\count286
+\@tmpstrctr=\count287
+\@DT@loopN=\count288
+\@DT@X=\count289
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datet
+ime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count290
+\@month=\count291
+\@year=\count292
+\c@HOUR=\count293
+\c@HOURXII=\count294
+\c@MINUTE=\count295
+\c@TOHOUR=\count296
+\c@TOMINUTE=\count297
+\c@SECOND=\count298
+\currenthour=\count299
+\currentminute=\count300
+\currentsecond=\count301
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count302
+\dayofyear=\count303
+\dayofweek=\count304
+LaTeX Info: Redefining \today on input line 736.
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dt-tu
+rkish.def
+File: dt-turkish.def 2013/09/10
+LaTeX Info: Redefining \dateturkish on input line 63.
+)
+\dt@a=\toks34
+\dt@b=\toks35
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
+ckend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box67
+) (elden_kişi_tespiti.aux)
+\openout1 = `elden_kişi_tespiti.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
+pp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen185
+\scratchbox=\box68
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen186
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\AYSENUR SIMSEK\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epsto
+pdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<ksbu.png, id=4, 170.6375pt x 171.64125pt>
+File: ksbu.png Graphic file (type png)
+<use ksbu.png>
+Package pdftex.def Info: ksbu.png  used on input line 21.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+
+Overfull \hbox (23.28105pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10.95 la-na-rak ki^^Xsileri tan^^Pmlamak ve tes-pit et-mek i^^Xcin
+ bir y^^?ontem geli^^Xstirmektir.[[]]
+ []
+
+[1
+
+{C:/Users/AYSENUR SIMSEK/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./k
+sbu.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 43.
+
+Overfull \hbox (47.24931pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10.95 Bu ne-den-ler-den do-lay^^P avu^^Xc i^^Xci tan^^Pma sis-tem-
+leri son za-man-larda ara^^Xst^^Prmac^^Plar^^Pn
+ []
+
+
+Overfull \hbox (0.71902pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10.95 il-gi-sini ^^Xcekmektedir. El ge-omet-risi ^^?uze-rine yap^^
+Plm^^P^^Xs ^^Xcal^^P^^Xsmalardan ba^^Xsta
+ []
+
+<el.png, id=12, 69.861pt x 90.3375pt>
+File: el.png Graphic file (type png)
+<use el.png>
+Package pdftex.def Info: el.png  used on input line 58.
+(pdftex.def)             Requested size: 69.86081pt x 90.33727pt.
+<griel.png, id=14, 67.452pt x 88.53075pt>
+File: griel.png Graphic file (type png)
+<use griel.png>
+Package pdftex.def Info: griel.png  used on input line 60.
+(pdftex.def)             Requested size: 67.45183pt x 88.5305pt.
+<histogram.png, id=15, 266.1945pt x 133.09724pt>
+File: histogram.png Graphic file (type png)
+<use histogram.png>
+Package pdftex.def Info: histogram.png  used on input line 66.
+(pdftex.def)             Requested size: 266.19385pt x 133.09691pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--70
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]
+Overfull \hbox (12.00365pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 vekt^^?or^^?unden el de edi-len giri^^Xs im-ge-sini kar^^Xs^
+^Pla^^Xst^^Pr^^Pr. B^^?oylece tan^^Plama
+ []
+
+
+Overfull \hbox (12.39304pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 kay-de-der, tan^^Pma i^^Xslemi i^^Xcin veri ta-ban^^Pyla ^^?
+ozel-lik vekt^^?or^^?u e^^Xsle^^Xstirilir.
+ []
+
+
+Overfull \hbox (12.2178pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 do^^Ugrulama ve te^^Xshis. [[]] Do^^Ugrulama, kim-lik id-dia
+ eden ki^^Xsiyi do^^Ugrular
+ []
+
+
+Overfull \hbox (34.47438pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 kay^^Ptl^^P olan ki^^Xsi ile o ki^^Xsi oldu^^Ugunu id-dia ed
+en ki^^Xsiyi ^^?ozel-lik vekt^^?or^^?uyle(elde
+ []
+
+
+Overfull \hbox (2.51482pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 edi-len veri) e^^Xsle^^Xstirerek onay-lar veya red-de-der. B
+^^?oylece, do^^Ugrulama
+ []
+
+[3 <./el.png> <./griel.png> <./histogram.png>]
+Overfull \hbox (27.09158pt too wide) in paragraph at lines 81--82
+\OT1/cmr/m/n/10.95 taca^^Ug^^Pz. Bu g^^?or^^?unt^^?uler, farkl^^P a^^Xc^^Plarda
+n ve farkl^^P ^^P^^Xs^^Pk ko^^Xsullar^^Pnda ^^Xcekilecektir. 
+ []
+
+
+Overfull \hbox (9.85558pt too wide) in paragraph at lines 83--84
+[]\OT1/cmr/m/n/10.95 G^^?or^^?unt^^?u []I^^Xsleme Tek-nik-le-ri-nin Uy-gu-lan-m
+as^^P: Top-la-nan avu^^Xc i^^Xci g^^?or^^?unt^^?ule-
+ []
+
+
+Overfull \hbox (7.25145pt too wide) in paragraph at lines 85--86
+\OT1/cmr/m/n/10.95 omet-ri-si-nin ka-rak-te-ris-tik ^^?ozel-lik-le-rini tem-sil
+ edecek ^^Xsekilde ^^Xc^^Pkar^^Placakt^^Pr.
+ []
+
+
+Overfull \hbox (42.68687pt too wide) in paragraph at lines 87--88
+\OT1/cmr/m/n/10.95 go-rit-ma-lar^^Pyla e^^Ugitilecek ve farkl^^P ki^^Xsilerin a
+vu^^Xc i^^Xci g^^?or^^?unt^^?ule-rini tan^^Pyabilecektir. 
+ []
+
+
+Overfull \hbox (0.89426pt too wide) in paragraph at lines 89--90
+\OT1/cmr/m/n/10.95 avu^^Xc i^^Xci g^^?or^^?unt^^?ule-rini tan^^Pma ye-tene^^Ugi
+ni de^^Ugerlendirmek i^^Xcin do^^Ugrulama
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+(elden_kişi_tespiti.bbl [4]) [5] (elden_kişi_tespiti.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 13790 strings out of 474485
+ 287164 string characters out of 5739450
+ 1938542 words of memory out of 5000000
+ 35857 multiletter control sequences out of 15000+600000
+ 563312 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,10n,93p,1065b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\AYSENUR SIMSEK\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcrm1095.pk><C:/Users/AYSENUR SIMSEK/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AYSENUR SIMSEK/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/AYSENUR SIMSEK/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+AYSENUR SIMSEK/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+17.pfb><C:/Users/AYSENUR SIMSEK/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Users/AYSENUR SIMSEK/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on elden_kişi_tespiti.pdf (5 pages, 211984 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+
