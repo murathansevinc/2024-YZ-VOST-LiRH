@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{gemini}
+Google AI.
+\newblock Gemini.
+\newblock 2023.
+\newblock Dil Modeli.
+
+\bibitem{amini2022cnnvideo}
+Alexander Amini.
+\newblock Mit 6.s191: Convolutional neural networks, 2023.
+\newblock YouTube Video.
+
+\bibitem{change2013semi}
+Chen Change~Loy, Shaogang Gong, and Tao Xiang.
+\newblock From semi-supervised to transfer counting of crowds.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2256--2263, 2013.
+
+\bibitem{chen2013cumulative}
+Ke~Chen, Shaogang Gong, Tao Xiang, and Chen Change~Loy.
+\newblock Cumulative attribute space for age and crowd density estimation.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 2467--2474, 2013.
+
+\bibitem{chen2012feature}
+Ke~Chen, Chen~Change Loy, Shaogang Gong, and Tony Xiang.
+\newblock Feature mining for localised crowd counting.
+\newblock In {\em Bmvc}, volume~1, page~3, 2012.
+
+\bibitem{cnnvideo}
+IBMTechnology.
+\newblock What are convolutional neural networks (cnns)?, 2023.
+\newblock YouTube Video.
+
+\bibitem{loy2013crowd}
+Chen~Change Loy, Ke~Chen, Shaogang Gong, and Tao Xiang.
+\newblock Crowd counting and profiling: Methodology and evaluation.
+\newblock In {\em Modeling, Simulation and Visual Analysis of Crowds: A
+  Multidisciplinary Perspective}, pages 347--382. Springer, 2013.
+
+\bibitem{CrowdCounting_dataset1}
+Francisco Mena.
+\newblock Crowd counting, 2018.
+\newblock Kaggle Dataset.
+
+\bibitem{chatgpt_dilmodeli}
+OpenAI.
+\newblock Chatgpt.
+\newblock 2022.
+\newblock Dil Modeli.
+
+\bibitem{RahulMishra}
+RahulMishra.
+\newblock Counting crowd with cnn- social distancing project, 2019.
+\newblock Kaggle Kernel.
+
+\bibitem{Computer_Vision}
+Murtaza's~Workshop Robotics and AI.
+\newblock Object detection 101 course-including 4xprojects computer vision,
+  2023.
+\newblock YouTube Video.
+
+\bibitem{shovalt2018crowdcounting}
+Shoval T.
+\newblock Crowd counting - keras pretrained resnet50 cnn, 2018.
+\newblock Kaggle Kernel.
+
+\bibitem{CrowdCounting_dataset2}
+Thai Thien.
+\newblock Shanghaitech with people density map, 2018.
+\newblock Kaggle Dataset.
+
+\bibitem{ShanghaiTech}
+Minh~Hoai Viresh~Ranjan, Hieu~Le.
+\newblock Single-image crowd counting via multi-column convolutional neural
+  network, 2018.
+\newblock paperswithcode.com/dataset.
+
+\bibitem{ChaoZhuang}
+Chao Zhuang.
+\newblock People statistics: Traffic control in a mall, 2024.
+\newblock Kaggle Kernel.
+
+\end{thebibliography}

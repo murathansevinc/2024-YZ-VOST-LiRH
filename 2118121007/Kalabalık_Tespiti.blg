@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Kalabalık_Tespiti.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Warning--entry type for "amini2022cnnvideo" isn't style-file defined
+--line 33 of file references.bib
+Warning--entry type for "Computer_Vision" isn't style-file defined
+--line 51 of file references.bib
+Warning--entry type for "cnnvideo" isn't style-file defined
+--line 67 of file references.bib
+Warning--entry type for "CrowdCounting_dataset1" isn't style-file defined
+--line 83 of file references.bib
+Warning--entry type for "CrowdCounting_dataset2" isn't style-file defined
+--line 99 of file references.bib
+Warning--entry type for "ShanghaiTech" isn't style-file defined
+--line 113 of file references.bib
+Warning--entry type for "shovalt2018crowdcounting" isn't style-file defined
+--line 145 of file references.bib
+Warning--entry type for "RahulMishra" isn't style-file defined
+--line 229 of file references.bib
+Warning--entry type for "ChaoZhuang" isn't style-file defined
+--line 243 of file references.bib
+Warning--empty booktitle in gemini
+Warning--can't use both volume and number fields in chen2012feature
+Warning--empty booktitle in chatgpt_dilmodeli
+You've used 15 entries,
+            2118 wiz_defined-function locations,
+            571 strings with 5870 characters,
+and the built_in function-call counts, 4375 in all, are:
+= -- 414
+> -- 170
+< -- 5
++ -- 69
+- -- 54
+* -- 207
+:= -- 688
+add.period$ -- 48
+call.type$ -- 15
+change.case$ -- 72
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 180
+empty$ -- 410
+format.name$ -- 54
+if$ -- 966
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 6
+newline$ -- 80
+num.names$ -- 30
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 152
+stack$ -- 0
+substring$ -- 189
+swap$ -- 54
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 3
+while$ -- 40
+width$ -- 17
+write$ -- 160
+(There were 12 warnings)
