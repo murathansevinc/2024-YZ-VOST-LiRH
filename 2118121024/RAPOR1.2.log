@@ -1,0 +1,434 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.6)  14 MAR 2024 21:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./RAPOR1.2.tex
+(RAPOR1.2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.
+clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dat
+etime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\eto
+olbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmt
+count.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.
+sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkey
+val.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+eyval.tex
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+vutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcp
+refix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcn
+umparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsg
+en.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dat
+etime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box51
+) (RAPOR1.2.aux)
+\openout1 = `RAPOR1.2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen145
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfex
+t.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/kvdefineke
+ys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kv
+options.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kv
+setkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds
+\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-
+english.def
+File: fc-english.def 2016/01/12
+)
+<ksbu.png, id=1, 170.6375pt x 171.64125pt>
+File: ksbu.png Graphic file (type png)
+<use ksbu.png>
+Package pdftex.def Info: ksbu.png  used on input line 27.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+ [1
+
+{C:/Users/Mustafa Erdoğdu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <.
+/ksbu.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+
+Overfull \hbox (15.50134pt too wide) in paragraph at lines 35--38
+\OT1/cmr/m/n/12 rin ^^?o^^Ugrenme y^^?ontemleri kul-la-narak ^^?ozg^^?un ve yar
+at^^Pc^^P do^^Uga g^^?orselleri olu^^Xsturabilen
+ []
+
+
+Overfull \hbox (18.30826pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 be-lirte^^Xclere ay^^Prma, k^^?ok ay^^Prma, k^^?ok ^^Xc^^?oz^^?
+umleme ve etk-i-siz ke-limelerin kald^^Pr^^Plmas^^P
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[2]
+Overfull \hbox (38.77055pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/12 Ba^^Xsl^^P^^Ug^^Pn da be-lirtti^^Ugi gibi, daha ^^?once g^^?ord
+^^?u^^Ug^^?um^^?uz dikkat mekaniz-mas^^Pn^^P kullan^^Pyor.[[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Overfull \hbox (22.1139pt too wide) in paragraph at lines 53--57
+\TS1/cmr/m/n/12 � \OT1/cmr/m/n/12 Ay^^Prt Edici (Dis-crim-i-na-tor): Bu a^^Ug, 
+ger^^Xcek ver-i-leri ^^?uretici taraf^^Pndan olu^^Xsturulan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+
+Overfull \hbox (0.64319pt too wide) in paragraph at lines 59--65
+\TS1/cmr/m/n/12 �\OT1/cmr/m/n/12 Stable Video Dif-fu-sion, g^^?ur^^?ult^^?u dif
+^^?uzyon ve ters dif^^?uzyon mod-el-leriyle ^^Xcal^^P^^Xs^^Pr. 
+ []
+
+[3]
+Overfull \hbox (11.09306pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/12 belli bir tarzda veya stildeki ver-i-leri ^^?uretmekte daha ba^
+^Xsar^^Pl^^P ola-bilir.Dezavantaj^^P
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Overfull \hbox (26.97954pt too wide) in paragraph at lines 76--76
+[]\OT1/cmr/bx/n/14.4 Stable Video Dif-fuzyon ile Metinden G^^?orsel Olu^^Xsturm
+a
+ []
+
+
+Overfull \hbox (9.63356pt too wide) in paragraph at lines 77--82
+\OT1/cmr/m/n/12 lan^^Pl^^Pr.CLIP veya VQ-VAE gibi metinden vekt^^?ore mod-eller
+, metinsel a^^Xc^^Pklamay^^P
+ []
+
+
+Overfull \hbox (9.43057pt too wide) in paragraph at lines 77--82
+\OT1/cmr/m/n/12 say^^Psal bir vekt^^?ore d^^?on^^?u^^Xst^^?urerek mod-elin an-l
+aya-bilece^^Ugi bir for-mata d^^?on^^?u^^Xst^^?ur^^?ur. 
+ []
+
+
+Overfull \hbox (18.30826pt too wide) in paragraph at lines 84--86
+\OT1/cmr/m/n/12 be-lirte^^Xclere ay^^Prma, k^^?ok ay^^Prma, k^^?ok ^^Xc^^?oz^^?
+umleme ve etk-i-siz ke-limelerin kald^^Pr^^Plmas^^P
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
+
+ []
+
+<00000000_(5).jpg, id=19, 1027.84pt x 687.56876pt>
+File: 00000000_(5).jpg Graphic file (type jpg)
+<use 00000000_(5).jpg>
+Package pdftex.def Info: 00000000_(5).jpg  used on input line 97.
+(pdftex.def)             Requested size: 284.53105pt x 142.26393pt.
+<00000024_(2).jpg, id=20, 1606.0pt x 1062.97125pt>
+File: 00000024_(2).jpg Graphic file (type jpg)
+<use 00000024_(2).jpg>
+Package pdftex.def Info: 00000024_(2).jpg  used on input line 98.
+(pdftex.def)             Requested size: 284.50949pt x 142.26224pt.
+
+Overfull \hbox (3.16397pt too wide) in paragraph at lines 105--110
+\OT1/cmr/m/n/12 a^^Xc^^Pklamalar^^Pn^^P do^^Ugru ^^Xsekilde yo-rum-laya-bilmesi
+ i^^Xcin gerekli veri set-leri ve e^^Ugitim
+ []
+
+
+Overfull \hbox (4.58711pt too wide) in paragraph at lines 105--110
+\OT1/cmr/m/n/12 destek-lemesi i^^Xcin gerekli geli^^Xstirmeler yap^^Placakt^^Pr
+. Pro-jenin tamam-lan-mas^^Pyla
+ []
+
+[5 <./00000000_(5).jpg> <./00000024_(2).jpg>]
+<OIG4.jpg, id=24, 379.4175pt x 379.4175pt>
+File: OIG4.jpg Graphic file (type jpg)
+<use OIG4.jpg>
+Package pdftex.def Info: OIG4.jpg  used on input line 113.
+(pdftex.def)             Requested size: 426.79732pt x 142.26384pt.
+<OIG4 (1).jpg, id=25, 379.4175pt x 379.4175pt>
+File: OIG4 (1).jpg Graphic file (type jpg)
+<use OIG4 (1).jpg>
+Package pdftex.def Info: OIG4 (1).jpg  used on input line 114.
+(pdftex.def)             Requested size: 426.79732pt x 142.26384pt.
+
+Overfull \hbox (36.79732pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+
+Overfull \hbox (36.79732pt too wide) in paragraph at lines 113--114
+ [] 
+ []
+
+[6 <./OIG4.jpg> <./OIG4 (1).jpg>]
+<Şekil1.png, id=29, 528.17325pt x 179.4705pt>
+File: Şekil1.png Graphic file (type png)
+<use Şekil1.png>
+Package pdftex.def Info: Şekil1.png  used on input line 124.
+(pdftex.def)             Requested size: 426.80252pt x 142.2621pt.
+
+Overfull \hbox (36.80252pt too wide) in paragraph at lines 124--124
+ [][] 
+ []
+
+<Şekil2.png, id=31, 931.68076pt x 187.902pt>
+File: Şekil2.png Graphic file (type png)
+<use Şekil2.png>
+Package pdftex.def Info: Şekil2.png  used on input line 127.
+(pdftex.def)             Requested size: 426.80132pt x 142.27084pt.
+
+Overfull \hbox (36.80132pt too wide) in paragraph at lines 127--128
+ [][] 
+ []
+
+[7 <./Şekil1.png> <./Şekil2.png>] (RAPOR1.2.bbl
+Underfull \hbox (badness 1226) in paragraph at lines 10--13
+[]\OT1/cmr/m/n/12 J. De-vlin, ``Dil an-la-mak i^^Xcin de-rin []ift y^^?onl^^?u 
+trans-for-mat^^?orlerin
+ []
+
+) [8] (RAPOR1.2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 93 ({)
+### simple group (level 1) entered at line 92 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3290 strings out of 474486
+ 56168 string characters out of 5738528
+ 1932542 words of memory out of 5000000
+ 25542 multiletter control sequences out of 15000+600000
+ 561483 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,7n,79p,1024b,344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Mustafa Erdoğdu\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Mustafa Erdoğdu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Mustafa Erdoğdu
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/Mustafa Erdoğdu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Users/Mustafa Erdoğdu/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on RAPOR1.2.pdf (8 pages, 628370 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
