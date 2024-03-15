@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{vural2018gercek}
+R.~A. Vural, M.~Y. Sert, and B.~Karaköse, ``Gerçek zamanlı sürücü
+  yorgunluk tespit sistemi,'' {\em Marmara Fen Bilimleri Dergisi}, vol.~30,
+  no.~3, pp.~249--259, 2018.
+
+\bibitem{aayushrai_driver_safety}
+A.~Rai, ``Driver drowsiness detection using computer vision,'' Year
+  Published/Last Updated.
+
+\bibitem{csafak2022derin}
+E.~{\c{S}}afak, {\.I}.~DOGRU, N.~BARI{\c{S}}{\c{C}}I, and S.~Toklu, ``Derin
+  {\"o}{\u{g}}renme kullan{\i}larak nesnelerin interneti tabanl{\i} mobil
+  s{\"u}r{\"u}c{\"u} yorgunluk tespiti,'' {\em Gazi {\"U}niversitesi
+  M{\"u}hendislik Mimarl{\i}k Fak{\"u}ltesi Dergisi}, vol.~37, no.~4,
+  pp.~1869--1882, 2022.
+
+\bibitem{akgun2020surucunun}
+H.~M. Akgün, ``Sürücünün yorgunluk ve uyuma durumunu tespit ederek
+  güvenli bir sürüş sağlayan uyarı sisteminin tasarlanması,'' 2020.
+
+\bibitem{liu2022review}
+F.~Liu, D.~Chen, J.~Zhou, and F.~Xu, ``A review of driver fatigue detection and
+  its advances on the use of rgb-d camera and deep learning,'' {\em Engineering
+  Applications of Artificial Intelligence}, vol.~116, p.~105399, 2022.
+
+\bibitem{rogado2009driver}
+E.~Rogado, J.~L. Garcia, R.~Barea, L.~M. Bergasa, and E.~L{\'o}pez, ``Driver
+  fatigue detection system,'' in {\em 2008 IEEE International Conference on
+  Robotics and Biomimetics}, pp.~1105--1110, IEEE, 2009.
+
+\bibitem{sikander2018driver}
+G.~Sikander and S.~Anwar, ``Driver fatigue detection systems: A review,'' {\em
+  IEEE Transactions on Intelligent Transportation Systems}, vol.~20, no.~6,
+  pp.~2339--2352, 2018.
+
+\bibitem{zhao2020driver}
+Z.~Zhao, N.~Zhou, L.~Zhang, H.~Yan, Y.~Xu, and Z.~Zhang, ``Driver fatigue
+  detection based on convolutional neural networks using em-cnn,'' {\em
+  Computational intelligence and neuroscience}, vol.~2020, 2020.
+
+\end{thebibliography}
